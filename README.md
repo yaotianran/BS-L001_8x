@@ -6,14 +6,14 @@
 ### 参考基因组
 对于Evo和Illumina样本，我们使用E.coli ATCC 8739 参考基因组。对于 BS-L001样本，我们使用了10种Genebank genome混合而成，它们分别为：
 
-- Bacillus cereus https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000008005.1/
-- Bifidobacterium adolescentis https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000010425.1/
-- Clostridium beijerinckii https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000767745.1/
+- Bacillus cereus ATCC 10987 https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000008005.1/
+- Bifidobacterium adolescentis ATCC 15703 https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000010425.1/
+- Clostridium beijerinckii ATCC 35702 https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000767745.1/
 - Deinococcus radiodurans ATCC 13939 https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_020546685.1/
 - Enterococcus faecalis T5 https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000393015.1/
-- Lactobacillus gasseri https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000014425.1/
+- Lactobacillus gasseri ATCC 33323 https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000014425.1/
 - Cereibacter sphaeroides 2.4.1 https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_003324715.1/
-- Staphylococcus epidermidis (ATCC 12228) https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_009873455.1/
+- Staphylococcus epidermidis ATCC 12228 https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_009873455.1/
 - Streptococcus mutans UA-159 https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_024762155.1/
 - Escherichia coli str. K-12 substr. MG1655 https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000005845.2/
 
