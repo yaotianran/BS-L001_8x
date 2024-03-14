@@ -1,7 +1,7 @@
 # 样本与方法
 
 ### 样本的准备
-对于BS-L001_81和BS-L001_82，我们使用了reformat.sh tossbrokenreads=t verifypaired=t allowidenticalnames=t qin=33 minlength=10 trimreaddescription=t 命令过滤了原始fastq文件。Evo和Illumina数据未做处理
+我们从[公共数据库](https://go.elementbiosciences.com/bacterial-whole-genome-sequencing)下载了两个微生物全基因组测序结果。对于BS-L001_81（[R1](https://element-public-data.s3.us-west-2.amazonaws.com/2023-Cloudbreak/elevate_bacteria_wgs/bases2fastq/APP-1810/BS-L001_81/BS-L001_81_R1.fastq.gz)，[R2](https://element-public-data.s3.us-west-2.amazonaws.com/2023-Cloudbreak/elevate_bacteria_wgs/bases2fastq/APP-1810/BS-L001_81/BS-L001_81_R2.fastq.gz)）和BS-L001_82（[R1](https://element-public-data.s3.us-west-2.amazonaws.com/2023-Cloudbreak/elevate_bacteria_wgs/bases2fastq/APP-1810/BS-L001_82/BS-L001_82_R1.fastq.gz)，[R2](https://element-public-data.s3.us-west-2.amazonaws.com/2023-Cloudbreak/elevate_bacteria_wgs/bases2fastq/APP-1810/BS-L001_82/BS-L001_82_R2.fastq.gz)），我们使用了reformat.sh tossbrokenreads=t verifypaired=t allowidenticalnames=t qin=33 minlength=10 trimreaddescription=t 命令过滤了原始fastq文件。Evo和Illumina数据未做处理
 
 ### 参考基因组
 对于Evo和Illumina样本，我们使用E.coli ATCC 8739 参考基因组。对于 BS-L001样本，我们使用了[MSA-1000混合基因组](https://www.atcc.org/products/msa-1000)，它由10种Genebank genome混合而成，分别为：
